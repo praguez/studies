@@ -5,4 +5,4 @@
   
 </ul>
 
-[![Nome da badge](https://img.shields.io/github/followers/praguez?style=social)]
+![Nome da badge](https://img.shields.io/github/followers/praguez?style=social)
