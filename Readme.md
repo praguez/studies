@@ -5,4 +5,4 @@
   
 </ul>
 
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+[![Nome da badge](https://img.shields.io/github/followers/praguez?style=social)]
