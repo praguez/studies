@@ -5,7 +5,4 @@
   
 </ul>
 
-![Nome da badge](https://img.shields.io/github/followers/praguez?style=social)
-
-
-[![Build Status](https://img.shields.io/github/followers/praguez?style=social)](https://travis-ci.com/praguez/studies)
+[![Followers](https://img.shields.io/github/followers/praguez?style=social)](https://github.com/praguez/studies/)
