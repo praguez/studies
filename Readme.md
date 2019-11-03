@@ -10,12 +10,12 @@ If you have any questions about my codes send me a message! I'm more than happy 
 #
 
 # >>whoami
-(informaçoes aqui)
+I'm a 16yo student in Portugal.
 
 #
 
 # Contacts
-(contactos)
+My e-mail: diogosantosburnsec@outlook.com
 
 [![Followers](https://img.shields.io/github/followers/praguez?style=social)](https://github.com/praguez/studies/)[![Forks](https://img.shields.io/github/forks/praguez/studies?style=social)](https://github.com/praguez/studies/)[![Stars](https://img.shields.io/github/stars/praguez/studies?style=social)](https://github.com/praguez/studies/)
 
